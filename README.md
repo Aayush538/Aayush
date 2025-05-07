@@ -1,2 +1,3 @@
 # Aayush
-Author - Aayush
+Author - Aayush 
+owner - Aayush
