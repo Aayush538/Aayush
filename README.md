@@ -1,3 +1,3 @@
 # Aayush
 Author - Aayush <br>
-owner - Aayush
+owner - Aayush prajapati
